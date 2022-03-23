@@ -11,6 +11,13 @@ Create an organized menu where the user can invert items
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/yoannchb-pro/Updown/src/updown.js"></script>
 ```
 
+- Or 
+
+```js
+import Updown from "./src/updown.js";
+//Vue.use(Updown);
+```
+
 ## Demo
 
 - [Github page](https://yoannchb-pro.github.io/Updown/index.html)

@@ -74,3 +74,6 @@ class Updown{
         }
     }
 }
+
+//EXPORT
+if (typeof exports == "object") module.exports = Updown;
