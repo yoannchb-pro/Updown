@@ -11,6 +11,10 @@ Create an organized menu where the user can invert items
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/yoannchb-pro/Updown/src/updown.js"></script>
 ```
 
+## Demo
+
+- [Github page](https://yoannchb-pro.github.io/Updown/index.html)
+
 ## How to use ?
 
 - Create a list of elements in html
