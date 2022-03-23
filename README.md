@@ -17,6 +17,15 @@ Create an organized menu where the user can invert items
 
 ## How to use ?
 
+- Need this block of css
+
+```css
+ul{
+    display: flex;
+    flex-direction: column;
+}
+```
+
 - Create a list of elements in html
 
 ```html
