@@ -74,4 +74,7 @@ const test = new Updown({
 //custom event
 document.querySelector('#event-test').addEventListener('moved-up', () => console.log("up"));
 document.querySelector('#event-test').addEventListener('moved-down', () => console.log("down"));
+
+//get sorted list
+console.log(test.getSortedList());
 ```
